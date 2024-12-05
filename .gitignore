@@ -1,0 +1,17 @@
+# Ignorar pastas de dependências
+node_modules/
+
+# Ignorar arquivos de build
+dist/
+build/
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar logs
+*.log
+
+# Ignorar outras pastas/arquivos temporários
+.cache/
+.vscode/
+.DS_Store
